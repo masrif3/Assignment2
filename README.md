@@ -9,3 +9,4 @@ For the above screenshot, I copied and pasted the code given previously and edit
 ![image](https://github.com/user-attachments/assets/61de2863-5e25-4818-8360-7733d42b0382)
 
 I used the same process as before for this section also. I copied and pasted the example given previously, but changed the iteration size to a very large number, then changed the bounds to 10 and 6 as given in the wine dataset. 
+
